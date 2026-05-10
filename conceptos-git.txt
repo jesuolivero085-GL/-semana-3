@@ -1,0 +1,11 @@
+Repositorio:
+Explicación: espacio donde se almacenan los archivos
+el historial de cambios de un proyecto en Git.
+
+Commit:
+Explicación: registro de los cambios realizados en el proyecto.
+Guarda una versión específica del trabajo.
+
+Push:
+Explicación: comando que envía los commits del repositorio local 
+a un repositorio remoto, por ejemplo GitHub.
